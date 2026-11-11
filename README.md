@@ -20,6 +20,6 @@ python -m http.server 8000
 
 Использованы Flexbox, локальные шрифты Fira Sans Condensed и Oswald, псевдоэлементы чекбоксов, состояния наведения, нажатия и клавиатурного фокуса. Видео и изображения масштабируются через `object-fit`. Длинный текст карточек ограничен многоточием.
 
-Исходные HTML, JavaScript, шрифты, стили ошибок и прелоадеров сохранены из официальной заготовки: https://github.com/yandex-praktikum/posmotri-v-okno-ad.
+https://github.com/khanhaziq782-ctrl/posmotri-v-okno-ad.
 
 API приложения: https://v-content.ffapi.ru. Адрес обновлён по актуальной официальной заготовке Практикума.
