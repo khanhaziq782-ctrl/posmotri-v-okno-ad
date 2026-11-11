@@ -14,6 +14,6 @@
 Использованы Flexbox, локальные шрифты Fira Sans Condensed и Oswald, псевдоэлементы чекбоксов, состояния наведения, нажатия и клавиатурного фокуса. Видео и изображения масштабируются через `object-fit`. Длинный текст карточек ограничен многоточием.
 
 ## Репозиторий
-https://github.com/khanhaziq782-ctrl/posmotri-v-okno-ad.
+[https://github.com/khanhaziq782-ctrl/posmotri-v-okno-ad](https://github.com/khanhaziq782-ctrl/posmotri-v-okno-ad)
 
 
